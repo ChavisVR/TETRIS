@@ -401,11 +401,5 @@ namespace Tetris
             Console.Write(marcoBorde);
         }
 
-        // Escribir texto en una posición específica de la consola
-        static void Write(string texto, int fila, int col)
-        {
-            Console.SetCursorPosition(col, fila);
-            Console.Write(texto);
-        }
     }
 }
