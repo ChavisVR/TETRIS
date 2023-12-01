@@ -1,0 +1,7 @@
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\Tetris\Tetris\obj\Debug\Tetris.pdb
