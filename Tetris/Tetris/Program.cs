@@ -10,13 +10,6 @@ namespace Tetris
 {
     class Program
     {
-        // Definición de variables estáticas
-        static int TetrisRows = 21;
-        static int TetrisCols = 10;
-        static int InfoCols = 20;
-        static int ConsoleRows = 1 + TetrisRows + 1;
-        static int ConsoleCols = 1 + TetrisCols + 1 + InfoCols + 1;
-        static List<bool[,]> TetrisFigures = new List<bool[,]>()
         {
             // Definición de las formas de las piezas de Tetris
             new bool [,] { {true, true, true, true } },
